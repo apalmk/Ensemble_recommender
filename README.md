@@ -1,5 +1,7 @@
 # Yelp Data Recommendation System
 
+# Please see Yelp-Recommendation System.pdf for detailed explanation of the project.
+
 1. Introduction
 
 In today’s world, where data has become the new oil, recommendation systems has taken a huge leap in terms of research and real time implementation. 
